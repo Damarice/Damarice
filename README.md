@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damarice
-- 👀 I’m interested in Software Development
+- 👀 I am a Software Developer
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me +254745520902 or menganyidamarice@gmail.com
